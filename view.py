@@ -16,12 +16,8 @@ def main_menu():
         print(f'{i + 1}. {menu_list[i]}')
     print(' ')    
     user_choice = int(input('Введи пункт: '))
-    if (user_choice == 1):
-        createNotes()
-    if (user_choice == 2):
-        return user_choice
-    if (user_choice == 3):
-        editNotes()
-    if (user_choice == 4):
-        saveNotes()
-    return user_choice            
+    return user_choice
+
+
+def print_all(my_list : list):
+    print(*my_list)

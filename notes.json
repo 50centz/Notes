@@ -1,31 +1,39 @@
 {
-    "Notes1" :   [
-    {
-    "name" :   "Вася" ,
-    "salary" :   5000
-    } ,
+    "Notes" :   [
+        {
+
+            "id" :  1 ,
+            "heading" :   "5000",
+            "note body" : "bla",
+            "date" : "12.03.2023"
+        } ,
      
-    {
-    "name" :   "Саша" ,
-    "salary" :   6000
-    } ,
-     
-    {
-    "name" :   "Петя" ,
-    "salary" :   9000
-     
-    } ,
-     
-    {
-    "name" :   "Даша" ,
-    "salary" :   10000
-     
-    },
-     
-    {
-    "name" :   "Маша" ,
-    "salary" :   11000
-     
-    }
+        {
+            "id" :  2 ,
+            "heading" :   "5000",
+            "note body" : "bla",
+            "date" : "12.03.2023"
+        } ,
+        
+        {
+            "id" :  3 ,
+            "heading" :   "5000",
+            "note body" : "bla",
+            "date" : "12.03.2023"
+        } ,
+        
+        {
+            "id" :  4 ,
+            "heading" :   "5000",
+            "note body" : "bla",
+            "date" : "12.03.2023"
+        },
+        
+        {
+            "id" :  5 ,
+            "heading" :   "5000",
+            "note body" : "bla",
+            "date" : "12.03.2023"
+        }
     ]
-    }
+}
