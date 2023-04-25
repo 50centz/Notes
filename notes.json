@@ -1,39 +1,22 @@
 {
-    "Notes" :   [
-        {
-
-            "id" :  1 ,
-            "heading" :   "5000",
-            "note body" : "bla",
-            "date" : "12.03.2023"
-        } ,
-     
-        {
-            "id" :  2 ,
-            "heading" :   "5000",
-            "note body" : "bla",
-            "date" : "12.03.2023"
-        } ,
-        
-        {
-            "id" :  3 ,
-            "heading" :   "5000",
-            "note body" : "bla",
-            "date" : "12.03.2023"
-        } ,
-        
-        {
-            "id" :  4 ,
-            "heading" :   "5000",
-            "note body" : "bla",
-            "date" : "12.03.2023"
-        },
-        
-        {
-            "id" :  5 ,
-            "heading" :   "5000",
-            "note body" : "bla",
-            "date" : "12.03.2023"
-        }
-    ]
+  "Notes": [
+    {
+      "id": 1,
+      "heading": "Новая заметка",
+      "note body": "Новая заметка",
+      "date": "25.04.23"
+    },
+    {
+      "id": 2,
+      "heading": "Новая заметка",
+      "note body": "Новая заметка",
+      "date": "25.04.23"
+    },
+    {
+      "id": 3,
+      "heading": "New ",
+      "note body": "New ",
+      "date": "25.04.23"
+    }
+  ]
 }
